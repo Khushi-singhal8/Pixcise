@@ -29,7 +29,8 @@ export const assets = {
     google_plus_icon,
     twitter_icon,
     upload_btn_icon,
-    credit_icon
+    credit_icon,
+    credit_star: credit_icon  // 👈 sirf yeh ek line add ki
 }
 
 export const testimonialsData = [
